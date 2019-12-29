@@ -11,5 +11,14 @@
   "dependencies": {
     "jest": "^24.9.0",
     "jsdom": "^15.2.1"
+  },
+  "devDependencies": {
+    "@wdio/cli": "^5.18.1",
+    "@wdio/local-runner": "^5.18.0",
+    "@wdio/mocha-framework": "^5.16.15",
+    "@wdio/spec-reporter": "^5.16.11",
+    "@wdio/sync": "^5.17.0",
+    "chromedriver": "^79.0.0",
+    "wdio-chromedriver-service": "^5.0.2"
   }
 }
